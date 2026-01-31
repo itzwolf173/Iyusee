@@ -1,1 +1,1 @@
-buat belajar aja
+Minecraft server can be running in linux
